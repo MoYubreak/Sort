@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\algo\Sort_4_21\Sort_4_21\test.cpp(22,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Sort_4_21.vcxproj -> E:\algo\Sort_4_21\x64\Debug\Sort_4_21.exe
